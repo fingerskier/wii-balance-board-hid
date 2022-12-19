@@ -1,0 +1,21 @@
+{
+  "name": "wii-balance-board-hid",
+  "version": "1.0.0",
+  "description": "Wii balance board HID utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/wii-balance-board-hid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fingerskier/wii-balance-board-hid/issues"
+  },
+  "homepage": "https://github.com/fingerskier/wii-balance-board-hid#readme"
+}
